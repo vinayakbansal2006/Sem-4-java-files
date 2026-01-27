@@ -3,7 +3,7 @@ class Calculator {
         return a+b;
     }
 }
-public class main {
+public class Main {
     public static void main (String[] args) {
        
         System.out.println("sum: " + Calculator.add(5, 10));
