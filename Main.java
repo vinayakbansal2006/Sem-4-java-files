@@ -1,0 +1,13 @@
+class Calculator {
+    static int add(int a,int b){
+        return a+b;
+    }
+}
+public class main {
+    public static void main (String[] args) {
+       
+        System.out.println("sum: " + Calculator.add(5, 10));
+        
+        
+    }
+}
